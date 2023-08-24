@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@vue-storefront/cli": "^4.4.0"
+  }
+}
